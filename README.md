@@ -48,8 +48,3 @@ online ordering behaviour, and the best dining areas in the city — using only 
 - The majority of Bangalore restaurants fall in the "Good" (3.5–3.9) rating bucket
 - Affordable restaurants (₹200–₹500) are the most common price segment
 - Areas like Brigade Road and Indiranagar have the best rated restaurants
-
-## Screenshots
-
-<img width="1912" height="1021" alt="Screenshot 2026-03-30 122421" src="https://github.com/user-attachments/assets/ca3f3b55-bcd4-4c4f-abb5-250753063caa" />
-
